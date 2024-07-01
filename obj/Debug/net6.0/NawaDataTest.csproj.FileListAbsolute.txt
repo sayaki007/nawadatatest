@@ -1,0 +1,15 @@
+D:\Tora\ENIGMACAMP\.Net\NawaDataTest\bin\Debug\net6.0\NawaDataTest.exe
+D:\Tora\ENIGMACAMP\.Net\NawaDataTest\bin\Debug\net6.0\NawaDataTest.deps.json
+D:\Tora\ENIGMACAMP\.Net\NawaDataTest\bin\Debug\net6.0\NawaDataTest.runtimeconfig.json
+D:\Tora\ENIGMACAMP\.Net\NawaDataTest\bin\Debug\net6.0\NawaDataTest.dll
+D:\Tora\ENIGMACAMP\.Net\NawaDataTest\bin\Debug\net6.0\NawaDataTest.pdb
+D:\Tora\ENIGMACAMP\.Net\NawaDataTest\obj\Debug\net6.0\NawaDataTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tora\ENIGMACAMP\.Net\NawaDataTest\obj\Debug\net6.0\NawaDataTest.AssemblyInfoInputs.cache
+D:\Tora\ENIGMACAMP\.Net\NawaDataTest\obj\Debug\net6.0\NawaDataTest.AssemblyInfo.cs
+D:\Tora\ENIGMACAMP\.Net\NawaDataTest\obj\Debug\net6.0\NawaDataTest.csproj.CoreCompileInputs.cache
+D:\Tora\ENIGMACAMP\.Net\NawaDataTest\obj\Debug\net6.0\NawaDataTest.sourcelink.json
+D:\Tora\ENIGMACAMP\.Net\NawaDataTest\obj\Debug\net6.0\NawaDataTest.dll
+D:\Tora\ENIGMACAMP\.Net\NawaDataTest\obj\Debug\net6.0\refint\NawaDataTest.dll
+D:\Tora\ENIGMACAMP\.Net\NawaDataTest\obj\Debug\net6.0\NawaDataTest.pdb
+D:\Tora\ENIGMACAMP\.Net\NawaDataTest\obj\Debug\net6.0\NawaDataTest.genruntimeconfig.cache
+D:\Tora\ENIGMACAMP\.Net\NawaDataTest\obj\Debug\net6.0\ref\NawaDataTest.dll

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tora\\ENIGMACAMP\\.Net\\NawaDataTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8D801B-80C4-4FEE-B368-3939DE757344}|NawaDataTest.csproj|d:\\tora\\enigmacamp\\.net\\nawadatatest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8D801B-80C4-4FEE-B368-3939DE757344}|NawaDataTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8D801B-80C4-4FEE-B368-3939DE757344}|NawaDataTest.csproj|d:\\tora\\enigmacamp\\.net\\nawadatatest\\test\\sortcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8D801B-80C4-4FEE-B368-3939DE757344}|NawaDataTest.csproj|solutionrelative:test\\sortcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8D801B-80C4-4FEE-B368-3939DE757344}|NawaDataTest.csproj|d:\\tora\\enigmacamp\\.net\\nawadatatest\\test\\psbb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8D801B-80C4-4FEE-B368-3939DE757344}|NawaDataTest.csproj|solutionrelative:test\\psbb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tora\\ENIGMACAMP\\.Net\\NawaDataTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Tora\\ENIGMACAMP\\.Net\\NawaDataTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:08:13.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PSBB.cs",
+              "DocumentMoniker": "D:\\Tora\\ENIGMACAMP\\.Net\\NawaDataTest\\Test\\PSBB.cs",
+              "RelativeDocumentMoniker": "Test\\PSBB.cs",
+              "ToolTip": "D:\\Tora\\ENIGMACAMP\\.Net\\NawaDataTest\\Test\\PSBB.cs",
+              "RelativeToolTip": "Test\\PSBB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:00:43.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SortCharacter.cs",
+              "DocumentMoniker": "D:\\Tora\\ENIGMACAMP\\.Net\\NawaDataTest\\Test\\SortCharacter.cs",
+              "RelativeDocumentMoniker": "Test\\SortCharacter.cs",
+              "ToolTip": "D:\\Tora\\ENIGMACAMP\\.Net\\NawaDataTest\\Test\\SortCharacter.cs",
+              "RelativeToolTip": "Test\\SortCharacter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T13:46:47.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
